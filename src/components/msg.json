@@ -1,0 +1,10 @@
+{
+  "en": {
+    "hello": "Hello, world 2!",
+    "foo": "That is foo"
+  },
+  "ru": {
+    "hello": "Привет, мир 2!",
+    "foo": "Это фуу"
+  }
+}
